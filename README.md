@@ -53,8 +53,8 @@ Plataforma web completa para venda de diamantes, passes, likes, contas guest, by
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/lhub.git
-cd lhub
+git clone https://github.com/lucasribeiroxzz/lhub-site-src
+cd lhub-site-src
 
 # Instale as dependências
 npm install
